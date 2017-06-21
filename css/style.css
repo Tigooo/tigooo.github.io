@@ -1,0 +1,48 @@
+body {
+	background: url(file:///C:/Users/Admin/Desktop/Gyadukyan/img/1.jpg);
+}
+p {
+	color: #fff;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: center;
+}
+.Ubuntu_Light {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: normal;
+}
+
+.Ubuntu_bold {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+
+}
+.Bebas {
+	font-family: 'Bebas Neue Regular', sans-serif;
+}
+.Bebas_bold {
+	font-family: 'bebsbold', sans-serif;
+}
+.HelveticaNeueCyr-Roman {
+	font-family: 'HelveticaNeueCyr-Roman', sans-serif;
+
+}
+.Font_Awesome {
+	font-family: 'Font Awesome', sans-serif;
+}
+@font-face {
+	font-family: 'Bebas Neue Regular';
+	src: url('../font/bebas/BebasNeue Regular.otf') format('truetype');
+}
+@font-face {
+	font-family: 'bebsbold';
+	src: url('../font/bebas/BebasNeue Bold.otf') format('truetype');
+}
+@font-face {
+	font-family: 'HelveticaNeueCyr-Roman';
+	src: url('..font/helveticaneuecyr/HelveticaNeueCyr-Roman.otf') format('truetype');
+}
+@font-face {
+	font-family: 'Font Awesome';
+	src: url('..font/font-awesome-4.7.0/fontawesome-webfont.ttf') format('truetype');
+}
