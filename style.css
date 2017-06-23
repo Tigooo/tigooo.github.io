@@ -630,13 +630,13 @@ footer p {
 	
 	
 /*MEDIA SETINGS*/	
-@media only screen and (max-width:1200px) { 
+@media (max-width:1200px) { 
         .header_logo {  
           padding-left: 5rem;   
   
     } 
 }  
-@media only screen and (max-width:1080px) {	
+@media (max-width:1080px) {	
     html, body {	
         font-size: 7px;	
     }	
@@ -645,13 +645,13 @@ footer p {
         text-align: center;	
     }	
 }	
-@media only screen and (mix-width:785px) {	
+@media  (mix-width:785px) {	
   .pure-toggle-label[data-toggle-label='left'] {	
     display: none;	
   }	
   	
 }	
-@media only screen and (max-width:785px) {	
+@media (max-width:785px) {	
   menu {	
     display: none;	
   }	
@@ -661,7 +661,7 @@ footer p {
   }	
 }	
 	
-@media only screen and (max-width:700px) {	
+@media (max-width:700px) {	
     .service {	
         width: 48%;	
         padding-top: 5rem;	
@@ -711,7 +711,7 @@ footer p {
     }	
     	
 } 	
-@media only screen and (max-width:460px) {	
+@media (max-width:460px) {	
     html, body {	
         font-size: 10px;	
     }	
